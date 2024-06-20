@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/RFySNB_D)
+This is a project that provides a solution for the Google HashCode 2017 problem that I did for the module CSU22012 (Algorithms and Data Structures 2) in my 2nd year at Trinity College Dublin. It tested my knowledge and creativity regarding Hill-Climbing and Genetic Algorithms as I had to design my own optimization algorithms to minimize the average waiting time for requests in a video-serving infrastructure containing Cache Servers, Video Endpoints and Videos.
+
+My solution uses Hill-Climbing, Shotgun Hill-Climbing, and Genetic Algorithms to create a series of solutions to the problem. My design philosophy and in-depth explanation of my solution can be found within my Assignment Report.
