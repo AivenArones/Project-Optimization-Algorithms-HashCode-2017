@@ -218,19 +218,22 @@ References
 ```
 (^1) Trinity College Dublin. (2024, February 21). "Project: Optimization Algorithms” instructions.
 https://tcd.blackboard.com/ultra/courses/_82334_1/cl/outline
+
 (^2) Google. (2017). “Problem statement for Online Qualification Round, Hash Code 2017”.
+
 (^3) GeekForGeeks. (2023, April 20). “Introduction-hill-climbing-artificial-intelligence".
 https://www.geeksforgeeks.org/introduction-hill-climbing-artificial-intelligence/
+
 (^4) Ashul Jain. (2020, April 22). “Hill Climbing Algorithm”
 https://www.professional-ai.com/hill-climbing-algorithm.html
 (^5) Tutorialpoint. “Genetic Algorithms Tutorial”
 https://www.tutorialspoint.com/genetic_algorithms/genetic_algorithms_population.htm
+
 (^6) GeekForGeeks. (2022, April 6). “Sort HashMap by Value”
 https://www.geeksforgeeks.org/sorting-a-hashmap-according-to-values/
+
 (^7) Ali Karazmoodeh. (2023, December 9). “selections-genetic-algorithms"
 https://www.linkedin.com/pulse/selections-genetic-algorithms-ali-karazmoodeh-g9yyf/
-(^12)
-(^3)
-(^4)
+
 
 
